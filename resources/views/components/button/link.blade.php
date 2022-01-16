@@ -1,0 +1,1 @@
+<a {{$attributes->merge(['class'=>"btn btn-block btn-outline-danger btn-sm d-print-none" ,'target'=>"_blank"])}}>{{$slot}}</a>

@@ -1,0 +1,1 @@
+<img src="{{asset('kabul.png')}}" class="p-5" height="85" width="85">

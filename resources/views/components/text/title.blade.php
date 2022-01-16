@@ -1,0 +1,1 @@
+<h6 {{$attributes->merge(['class'=>'text-muted'])}}>{{$slot}}</h6>

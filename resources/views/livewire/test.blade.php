@@ -1,0 +1,1 @@
+<livewire:teacher.exam.show>
